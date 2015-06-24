@@ -1,0 +1,5 @@
+c:\users\shaob0y\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\bin\Release\ConsoleApplication8.exe
+c:\users\shaob0y\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\bin\Release\ConsoleApplication8.pdb
+c:\users\shaob0y\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\shaob0y\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Release\ConsoleApplication8.exe
+c:\users\shaob0y\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Release\ConsoleApplication8.pdb
